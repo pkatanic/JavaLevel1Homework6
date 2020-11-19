@@ -1,0 +1,6 @@
+employee Registration
+---------------------
+EID    NAME    AGE
+---------------------
+E10    Peter   30
+E20    Anna    24
